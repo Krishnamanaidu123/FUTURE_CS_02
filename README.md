@@ -67,7 +67,7 @@ These public repositories were reviewed for context on real-world phishing email
 - [phishing-mail-examples](https://github.com/autinerd/phishing-mail-examples) — header + body text samples
 - [Phishing_Email](https://github.com/sadat1971/Phishing_Email) — labeled phishing/non-phishing dataset
 - [Phishing.Database](https://github.com/Phishing-Database/Phishing.Database) — phishing domain/URL dataset
-- [Phishing-Email-Detection-Using-Machine-Learning](https://github.com/Click2Hack/Phishing-Email-Detection-Using-Machine-Learning) — ML classification example
+
 
 ## Usage
 
