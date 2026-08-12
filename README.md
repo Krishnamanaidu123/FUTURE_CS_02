@@ -76,4 +76,4 @@ These public repositories were reviewed for context on real-world phishing email
 
 ## Author
 
-[Your Name] — Cyber Security Track, Future Interns
+THOTA JANAKI RAMA KRISHNAMA NAIDU — Cyber Security Track, Future Interns
