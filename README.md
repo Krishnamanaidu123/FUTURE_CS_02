@@ -12,7 +12,7 @@ A hands-on security-analyst exercise: analyzing phishing email samples, document
 
 | File | Description |
 |---|---|
-| [`Phishing_Detection_Awareness_Report.docx`](./Phishing_Detection_Awareness_Report.docx) | Full analyst report: methodology, four analyzed email exhibits (indicators + risk rating for each), the risk classification framework, a plain-language explanation of how phishing attacks work, and prevention/Do's-and-Don'ts guidance. |
+| [`Phishing_Detection_Awareness_Report.docx`](./Phishing_Detection_Awareness_Report_FI-2.docx) | Full analyst report: methodology, four analyzed email exhibits (indicators + risk rating for each), the risk classification framework, a plain-language explanation of how phishing attacks work, and prevention/Do's-and-Don'ts guidance. |
 | [`phishing-training-module.html`](./phishing-training-module.html) | Interactive, self-contained web training module for end users — annotated email/URL exhibits, social engineering tactics, case studies, and a scored quiz. Open directly in a browser. |
 | `README.md` | This file. |
 
